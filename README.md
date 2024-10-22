@@ -32,7 +32,7 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/<your-username>/<repo-name>.git
+    git clone https://github.com/nedu-m/taskapp.git
     ```
 2. **Navigate into the project directory**:
     ```bash
